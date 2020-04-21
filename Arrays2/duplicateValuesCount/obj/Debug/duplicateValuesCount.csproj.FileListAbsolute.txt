@@ -1,0 +1,6 @@
+E:\.net mvc\WebApplication1\Arrays2\duplicateValuesCount\bin\Debug\duplicateValuesCount.exe.config
+E:\.net mvc\WebApplication1\Arrays2\duplicateValuesCount\bin\Debug\duplicateValuesCount.exe
+E:\.net mvc\WebApplication1\Arrays2\duplicateValuesCount\bin\Debug\duplicateValuesCount.pdb
+E:\.net mvc\WebApplication1\Arrays2\duplicateValuesCount\obj\Debug\duplicateValuesCount.csprojAssemblyReference.cache
+E:\.net mvc\WebApplication1\Arrays2\duplicateValuesCount\obj\Debug\duplicateValuesCount.exe
+E:\.net mvc\WebApplication1\Arrays2\duplicateValuesCount\obj\Debug\duplicateValuesCount.pdb

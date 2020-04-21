@@ -1,0 +1,6 @@
+E:\.net mvc\WebApplication1\Arrays2\SortofElementsinAscendingOrder\bin\Debug\SortofElementsinAscendingOrder.exe.config
+E:\.net mvc\WebApplication1\Arrays2\SortofElementsinAscendingOrder\bin\Debug\SortofElementsinAscendingOrder.exe
+E:\.net mvc\WebApplication1\Arrays2\SortofElementsinAscendingOrder\bin\Debug\SortofElementsinAscendingOrder.pdb
+E:\.net mvc\WebApplication1\Arrays2\SortofElementsinAscendingOrder\obj\Debug\SortofElementsinAscendingOrder.exe
+E:\.net mvc\WebApplication1\Arrays2\SortofElementsinAscendingOrder\obj\Debug\SortofElementsinAscendingOrder.pdb
+E:\.net mvc\WebApplication1\Arrays2\SortofElementsinAscendingOrder\obj\Debug\SortofElementsinAscendingOrder.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\.net mvc\WebApplication1\Arrays2\FrequencyCount\bin\Debug\FrequencyCount.exe.config
+E:\.net mvc\WebApplication1\Arrays2\FrequencyCount\bin\Debug\FrequencyCount.exe
+E:\.net mvc\WebApplication1\Arrays2\FrequencyCount\bin\Debug\FrequencyCount.pdb
+E:\.net mvc\WebApplication1\Arrays2\FrequencyCount\obj\Debug\FrequencyCount.csprojAssemblyReference.cache
+E:\.net mvc\WebApplication1\Arrays2\FrequencyCount\obj\Debug\FrequencyCount.exe
+E:\.net mvc\WebApplication1\Arrays2\FrequencyCount\obj\Debug\FrequencyCount.pdb

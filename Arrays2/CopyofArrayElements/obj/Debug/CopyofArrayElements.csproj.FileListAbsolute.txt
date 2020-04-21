@@ -1,0 +1,6 @@
+E:\.net mvc\WebApplication1\Arrays2\CopyofArrayElements\bin\Debug\CopyofArrayElements.exe.config
+E:\.net mvc\WebApplication1\Arrays2\CopyofArrayElements\bin\Debug\CopyofArrayElements.exe
+E:\.net mvc\WebApplication1\Arrays2\CopyofArrayElements\bin\Debug\CopyofArrayElements.pdb
+E:\.net mvc\WebApplication1\Arrays2\CopyofArrayElements\obj\Debug\CopyofArrayElements.csprojAssemblyReference.cache
+E:\.net mvc\WebApplication1\Arrays2\CopyofArrayElements\obj\Debug\CopyofArrayElements.exe
+E:\.net mvc\WebApplication1\Arrays2\CopyofArrayElements\obj\Debug\CopyofArrayElements.pdb
